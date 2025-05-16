@@ -1,16 +1,16 @@
 {
-  "name": "server",
+  "name": "onboarding_and_ticket_tracker",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "An idea to try out a couple of Firebase features and possibly implement a SOAP API",
+  "main": "server/server.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon server.js",
+    "dev": "nodemon server/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
