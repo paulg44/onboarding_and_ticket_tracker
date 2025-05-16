@@ -31,7 +31,7 @@ Components:
 
 #SERVER
 
-1 Create basic Node/Express server
+1 Create basic Node/Express server ✅
 2 Create controllers for data from Firestore
 3 Create routes
 
